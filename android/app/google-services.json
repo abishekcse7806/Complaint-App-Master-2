@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "33700794842",
+    "project_id": "esmart-crest",
+    "storage_bucket": "esmart-crest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33700794842:android:ac7a20f2885454a86c30e3",
+        "android_client_info": {
+          "package_name": "com.crestronics.gogreen_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33700794842-l1tag9b50ckvv1533elesej4kohuh4k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDETeV2OW8eSc6a9z8JSHD1giN8IIBhuMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33700794842-l1tag9b50ckvv1533elesej4kohuh4k1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "33700794842-qtuh85n0ei36vn4d028bc90odaiuo6av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crestronics.eComplaint"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33700794842:android:bcbb34f5a86208ca6c30e3",
+        "android_client_info": {
+          "package_name": "com.crestronics.gogreen_complaints"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33700794842-l1tag9b50ckvv1533elesej4kohuh4k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDETeV2OW8eSc6a9z8JSHD1giN8IIBhuMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33700794842-l1tag9b50ckvv1533elesej4kohuh4k1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "33700794842-qtuh85n0ei36vn4d028bc90odaiuo6av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crestronics.eComplaint"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
